@@ -56,7 +56,7 @@ Barrel & Brew has built a strong brand around artisanal small-batch wine. Howeve
 
 These challenges directly impact scalability and long-term business sustainability.
 
-🎯 Objectives
+# 🎯 Objectives
 
 - Map the end-to-end current-state brewing process
 
@@ -88,6 +88,27 @@ These challenges directly impact scalability and long-term business sustainabili
 ![isikawa Diagram](https://github.com/user-attachments/assets/d7fffbf9-c3f3-4819-8f3a-e2bfab4e787e)
 
 ## Current-State Process Mapping
+
 ![Barrel Brewy_Current process](https://github.com/user-attachments/assets/63393923-80a4-469d-a7c3-d91929cef5a7)
+
+The production path was visually mapped from order intake to distribution: 
+
+Recipe Planning → Ingredient Prep → Brewing → Fermentation → Quality Control → Bottling → Packaging → Delivery
+
+### Critical friction points:
+
+- Lost time rewriting handwritten notes
+
+- Lack of checkpoints between brewing → Quality Checks → packaging
+
+- No formal scheduling or task allocation
+
+- Frequent rework due to inconsistent fermentation logs
+
+- Equipment downtime cascading into bottling delays
+  
+## Future-State Swimlane Mapping
+
+![Barrel brewy_Future Process flow](https://github.com/user-attachments/assets/837d8c7e-fdd1-4ee8-a83c-1bf436ed8b4b)
 
 
