@@ -55,3 +55,29 @@ Barrel & Brew has built a strong brand around artisanal small-batch wine. Howeve
 - No structured demand forecasting or data system
 
 These challenges directly impact scalability and long-term business sustainability.
+
+🎯 Objectives
+
+- Map the end-to-end current-state brewing process
+
+- Identify bottlenecks affecting quality, production, and reliability
+
+- Categorize causes using a Fishbone (Ishikawa) diagram
+
+- Design an efficient future-state workflow with clear role boundaries
+
+- Recommend actionable improvements aligned with growth goals
+
+# 📉 Gap Analysis — Barrel & Brew Operations
+
+| **Focus Area** | **Current State** | **Gap Identified** | **Future State** |
+|---|---|---|---|
+| **Production Processes** | Manual brewing workflow with handwritten recipe logs | Slow production, repeated errors, quality inconsistency | Standardized digital workflow with automated batch tracking and SOPs |
+| **Quality Control** | QC happens only at the end of production | Defects found late → rework, delays, customer impact | Stage-based QC checkpoints at fermentation, bottling, and packaging |
+| **Equipment Reliability** | Aging tanks and frequent bottling-line failures | High downtime and cascading delays | Preventive maintenance plan and phased equipment upgrades |
+| **Demand Forecasting** | Forecasting based on assumptions and gut feel | Over/underproduction and wasted resources | Data-driven forecasting using distributor sales and historical trends |
+| **Inventory Management** | Ingredient stock tracked manually | Stockouts, spoilage, inconsistent batch quality | Integrated inventory system linked to production and consumption |
+| **Workforce Allocation** | Overworked team, unclear responsibilities | Employee burnout and inconsistent performance | Clear role assignments, balanced scheduling, and training |
+| **Communication & Alignment** | Sales and production operate in silos | Rush orders, misalignment, operational confusion | Weekly Sales–Production sync with shared visibility tools |
+| **Data & Documentation** | Notes in notebooks and scattered spreadsheets | No audit trail, knowledge loss, high onboarding time | Centralized digital record of recipes, batches, QC checkpoints |
+| **Scalability & Growth** | Processes designed for small-batch operations | Systems fail under increasing demand | Scalable production workflows supported by automation and KPIs |
