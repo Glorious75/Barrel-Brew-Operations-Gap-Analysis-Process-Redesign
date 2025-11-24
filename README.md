@@ -145,6 +145,6 @@ Aligning output with demand reduces waste, stockouts, and inventory risk.
 Create a preventive maintenance plan and phase in upgrades for aging machinery.
 Stable equipment reduces bottlenecks, improves throughput, and protects staff workload.
 
-- Improve Cross-Team Communication
-Establish weekly Sales–Production alignment meetings and shared visibility tools.
-This ensures operational clarity, reduces last-minute disruptions, and supports planning.
+- Improve Cross-Team Communication and collaboration
+Establish weekly Sales production alignment meetings and shared visibility tools.
+This ensures operational clarity, reduces last minute disruptions, and supports planning.
