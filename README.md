@@ -88,4 +88,6 @@ These challenges directly impact scalability and long-term business sustainabili
 ![isikawa Diagram](https://github.com/user-attachments/assets/d7fffbf9-c3f3-4819-8f3a-e2bfab4e787e)
 
 ## Current-State Process Mapping
+![Barrel Brewy_Current process](https://github.com/user-attachments/assets/63393923-80a4-469d-a7c3-d91929cef5a7)
+
 
