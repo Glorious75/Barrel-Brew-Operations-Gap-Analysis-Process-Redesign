@@ -107,6 +107,18 @@ Recipe Planning → Ingredient Prep → Brewing → Fermentation → Quality Con
 
 ![Barrel brewy_Future Process flow](https://github.com/user-attachments/assets/837d8c7e-fdd1-4ee8-a83c-1bf436ed8b4b)
 
+The  redesigned workflow comprise of 5 Swimlane roles that shows accountability and automation:
+
+- Sales Manager
+
+- Brewing/Production Team
+
+- Quality Control
+
+- Bottling Team
+
+- ERP/System
+
 ### Key improvements include:
 
 - Digital recipe & batch records
