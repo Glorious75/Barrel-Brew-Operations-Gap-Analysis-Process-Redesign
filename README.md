@@ -1,4 +1,4 @@
-# Barrel-Brew-Gap-Analysis-Process-Optimization
+# Barrel & Brew Operations: Gap Analysis & Process Redesign
 A Process Mapping, Gap Identification &amp; Workflow Improvement Project 
 
  # 📚 Table of Contents
